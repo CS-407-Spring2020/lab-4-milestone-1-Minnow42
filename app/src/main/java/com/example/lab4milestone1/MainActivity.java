@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
                     runOnUiThread(new Runnable() {
                         @Override
                         public void run() {
-                            buttonStartThread.setText("Start");
+                            buttonStartThread.setText("50%");
                         }
                     });
                 }
